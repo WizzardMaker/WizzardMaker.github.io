@@ -108,13 +108,13 @@ analytics:
 author:
   name             : "Jonas Schoenwald"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Developer by day, game devloper by night"
+  bio              : "Developer by day, game developer by night"
   location         : "Germany"
-  email            : "wizzardmaker@gmail.com - Bussines"
+  email            : "wizzardmaker@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: wizzardmaker@gmail.com
+      # url: wizzardmaker@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
