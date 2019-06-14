@@ -1,4 +1,5 @@
 ---
+permalink: /:collection/
 title: "Open Airline Tycoon Deluxe"
 excerpt: "The open source remake of the classic game ATD utilizing the original graphic assets"
 header:
