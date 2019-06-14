@@ -4,11 +4,11 @@ title: "Portfolio"
 excerpt: "All my current and completed projects"
 feature_row:
   - image_path: /assets/images/portfolio/openATDGifAirport.gif
-	url: /portfolio/open-atd
+    url: /portfolio/open-atd
     alt: "Open ATD"
     title: "Open Airline Tycoon"
     excerpt: "My current main project. A remake of the classic game Airline Tycoon Deluxe."
-	btn_label: "Read More"
+    btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: https://github.com/WizzardMaker/WerWird/blob/master/bg.jpg
     alt: "Wer Wird"

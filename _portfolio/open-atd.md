@@ -10,7 +10,6 @@ sidebar:
     text: "Project Lead, Lead Developer"
   - title: "Responsibilities"
     text: "Manage development plan and oversee the Github page"
-	
 
 gallery:
   - url: /assets/images/portfolio/openATDGifAirport.gif
