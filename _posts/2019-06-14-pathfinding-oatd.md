@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Pathfinding - An Open ATD Story
 categories: [update, oatd]
 tags: [airlinetycoon, pathfinding, AI , development]
