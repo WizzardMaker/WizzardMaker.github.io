@@ -13,13 +13,11 @@ sidebar:
 
 gallery:
   - image_path: assets/images/portfolio/openATDGifAirport.gif
-    alt: "placeholder image 1"
-  - image_path: assets/images/portfolio/openATDGifAirport.gif
-    alt: "placeholder image 2"
+    alt: "gif airport"
   - image_path: assets/images/portfolio/airport.PNG
-    alt: "placeholder image 3"
+    alt: "airport"
   - image_path: assets/images/portfolio/crime.PNG
-    alt: "placeholder image 3"
+    alt: "crime"
 ---
 
 This is the Open Source remake of Airline Tycoon Deluxe.
