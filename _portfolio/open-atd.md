@@ -10,6 +10,8 @@ sidebar:
     text: "Project Lead, Lead Developer"
   - title: "Responsibilities"
     text: "Manage development plan and oversee the Github page"
+	
+
 gallery:
   - url: /assets/images/portfolio/openATDGifAirport.gif
     image_path: assets/images/portfolio/openATDGifAirport.gif
@@ -21,3 +23,6 @@ gallery:
     image_path: assets/images/portfolio/
     alt: "placeholder image 3"
 ---
+
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
