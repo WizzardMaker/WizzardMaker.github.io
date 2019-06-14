@@ -16,11 +16,11 @@ gallery:
   - url: /assets/images/portfolio/openATDGifAirport.gif
     image_path: assets/images/portfolio/openATDGifAirport.gif
     alt: "placeholder image 1"
-  - url: /assets/images/portfolio/
-    image_path: assets/images/portfolio/
+  - url: /assets/images/portfolio/openATDGifAirport.gif
+    image_path: assets/images/portfolio/openATDGifAirport.gif
     alt: "placeholder image 2"
-  - url: /assets/images/portfolio/
-    image_path: assets/images/portfolio/
+  - url: /assets/images/portfolio/openATDGifAirport.gif
+    image_path: assets/images/portfolio/openATDGifAirport.gif
     alt: "placeholder image 3"
 ---
 
