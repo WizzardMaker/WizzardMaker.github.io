@@ -12,16 +12,19 @@ sidebar:
     text: "Manage development plan and oversee the Github page"
 
 gallery:
-  - url: /assets/images/portfolio/openATDGifAirport.gif
-    image_path: assets/images/portfolio/openATDGifAirport.gif
+  - image_path: assets/images/portfolio/openATDGifAirport.gif
     alt: "placeholder image 1"
-  - url: /assets/images/portfolio/openATDGifAirport.gif
-    image_path: assets/images/portfolio/openATDGifAirport.gif
+  - image_path: assets/images/portfolio/openATDGifAirport.gif
     alt: "placeholder image 2"
-  - url: /assets/images/portfolio/openATDGifAirport.gif
-    image_path: assets/images/portfolio/openATDGifAirport.gif
+  - image_path: assets/images/portfolio/airport.PNG
+    alt: "placeholder image 3"
+  - image_path: assets/images/portfolio/crime.PNG
     alt: "placeholder image 3"
 ---
 
+This is the Open Source remake of Airline Tycoon Deluxe.
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+It's a recreation of the game with improved support for every modern OS.
+We aim to re-implement the game engine of Airline Tycoon. The original game files are needed to be able to use this remake. Our main objective is to re-implement the game logic and other needed code in open source code, which will serve as a base for future extensions or mods to the original.
+
+{% include gallery %}
