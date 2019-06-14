@@ -1,10 +1,8 @@
 ---
-permalink: /:collection/
 title: "Open Airline Tycoon Deluxe"
 excerpt: "The open source remake of the classic game ATD utilizing the original graphic assets"
 header:
-  image: assets/images/portfolio/openATDBig
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  image: assets/images/portfolio/openATDBig.png
 sidebar:
   - title: "Role"
     image: assets/images/portfolio/openATDLogo.png
