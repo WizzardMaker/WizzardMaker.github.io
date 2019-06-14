@@ -3,7 +3,7 @@ title: Pathfinding - An Open ATD Story
 categories: [update, oatd]
 tags: [airlinetycoon, pathfinding, AI , development]
 header:
-  overlay_image: /assets/images/logoCard.png
+  overlay_image: /assets/images/logoCardPost.png
 ---
 
 ## Welcome to the first *BLOG* update to Open-ATD!
